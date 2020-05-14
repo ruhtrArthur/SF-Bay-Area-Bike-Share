@@ -16,11 +16,11 @@ weather.csv - Data about the weather on a specific day for certain zip codes
 
 #### Contributors:
 
-Vivian Chu
-Yao Liu  
-Arthur Qin
-Todd Zhang
-Yunzheng Zhao
+Vivian Chu <br>
+Yao Liu  <br>
+Arthur Qin <br>
+Todd Zhang <br>
+Yunzheng Zhao <br>
 
 #### Goal:
 
