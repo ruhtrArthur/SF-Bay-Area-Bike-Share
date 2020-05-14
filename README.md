@@ -6,7 +6,7 @@ The Bay Area Bike Share enables quick, easy, and affordable bike trips around th
 They make regular open data releases (this dataset is a transformed version of the data from this link), plus maintain a real-time API.
 https://www.kaggle.com/benhamner/sf-bay-area-bike-share
 
-![alt text](https://socialmediaweek.org/wp-content/blogs.dir/1/files/rtr-1.jpg)
+![alt text](bike_share.jpg)
 
 #### About this dataset:  
 
