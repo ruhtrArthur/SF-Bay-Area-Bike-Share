@@ -10,9 +10,9 @@ https://www.kaggle.com/benhamner/sf-bay-area-bike-share
 
 #### About this dataset:  
 
-station.csv - Contains data that represents a station where users can pickup or return bikes.
-trips.csv - Data about individual bike trips
-weather.csv - Data about the weather on a specific day for certain zip codes
+station.csv - Contains data that represents a station where users can pickup or return bikes. <br>
+trips.csv - Data about individual bike trips. <br>
+weather.csv - Data about the weather on a specific day for certain zip codes. <br>
 
 #### Contributors:
 
