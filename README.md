@@ -1,4 +1,4 @@
-# Predicting Trip Duration for the San Francisco Bay Area Bike Sharing System
+# Predicting Trip Duration for the SF Bay Area Bike Sharing System
 USF MSDS Distributed Data System - Group Project 
 
 #### Data: San Francisco Bay Area Bike Share dataset
@@ -48,9 +48,9 @@ Compared various fitted model on basis on evaluation of validation set on metric
 
 #### Conclusion:
 
-Gradient Boost outperformed the other models (Linear Regressions, Random Forest, XGBoost and Gradient Boost) for travel time prediction
-Noises significantly impact results. By dropping misleading outliers, RMSE dropped over 75%. Consider changing evaluation metrics.
-Cross Validation on tree-based Spark ML takes long time, potentially due to how Spark ML optimizes splits of continuous variables (approximating quantile instead of using exact splits)
+Gradient Boost outperformed the other models (Linear Regressions, Random Forest, XGBoost and Gradient Boost) for travel time prediction. <br>
+Noises significantly impact results. By dropping misleading outliers, RMSE dropped over 75%. Consider changing evaluation metrics. <br>
+Cross Validation on tree-based Spark ML takes long time, potentially due to how Spark ML optimizes splits of continuous variables. (approximating quantile instead of using exact splits) <br>
 
-For Bike Riders : Optimize path according to duration
+For Bike Riders : Optimize path according to duration <br>
 For Bike Sharing Service Company: maintain the system in a balanced state (optimize docks for different stations)
