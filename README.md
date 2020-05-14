@@ -48,9 +48,8 @@ Compared various fitted model on basis on evaluation of validation set on metric
 
 #### Conclusion:
 
-Gradient Boost outperformed the other models (Linear Regressions, Random Forest, XGBoost and Gradient Boost) for travel time prediction. <br>
-Noises significantly impact results. By dropping misleading outliers, RMSE dropped over 75%. Consider changing evaluation metrics. <br>
-Cross Validation on tree-based Spark ML takes long time, potentially due to how Spark ML optimizes splits of continuous variables. (approximating quantile instead of using exact splits) <br>
-
-For Bike Riders : Optimize path according to duration <br>
-For Bike Sharing Service Company: maintain the system in a balanced state (optimize docks for different stations)
+1. Gradient Boost outperformed the other models (Linear Regressions, Random Forest, XGBoost and Gradient Boost) for travel time prediction. <br>
+2. Noises significantly impact results. By dropping misleading outliers, RMSE dropped over 75%. Consider changing evaluation metrics. <br>
+3. Cross Validation on tree-based Spark ML takes long time, potentially due to how Spark ML optimizes splits of continuous variables. (approximating quantile instead of using exact splits) <br>
+4. For Bike Riders : Optimize path according to duration <br>
+5. For Bike Sharing Service Company: maintain the system in a balanced state (optimize docks for different stations)
